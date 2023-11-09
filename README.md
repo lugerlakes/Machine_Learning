@@ -11,5 +11,4 @@ Este repositorio tiene como propósito dar a conocer los resultados de 03 Labora
 - Ajustar los algoritmos Naive Bayes, Análisis de discriminante y regresión logística a la base Wine, y describir qué modelo realia una mejor predicción.
 
 ## Laboratorio N°3:
-- Realizar al menos un análisis no supervisado y un análisis supervisado de un dataset de UCI REPOSITORY
-(’https://archive.ics.uci.edu/’), base con al menos 10 “features” y sobre 500 instancias.
+- Implementar y aplicar algoritmos supervisados y no supervisados de Machine Learning (ML) en el siguiente dataset del repositorio de UC Irvine Machine Learning (UCI): ‘Online Shoppers purchasing intention dataset’ (https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset).
